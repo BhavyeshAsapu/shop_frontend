@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/ecommerce/',   // 👈 put it here (outside plugins)
+  base: '/frontapp1',   // 👈 put it here (outside plugins)
 })
