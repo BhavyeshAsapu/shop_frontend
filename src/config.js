@@ -1,5 +1,7 @@
-const config = {
-  url: import.meta.env.VITE_API_BASE
-};
+const config = 
+{
+    "url":"http://localhost:2004"
+    //"https://sdpbackend-famf.onrender.com"
+}
 
-export default config;
+export default config
