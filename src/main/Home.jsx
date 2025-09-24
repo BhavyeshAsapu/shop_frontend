@@ -51,11 +51,11 @@ export default function Home() {
 
   // Categories for quick navigation
   const categories = [
-    { id: 1, name: "Mobiles", icon: <FaMobile size={24} /> },
+    { id: 1, name: "Mobiles", icon: <FaCICD size={24} /> },
     { id: 2, name: "Electronics", icon: <FaLaptop size={24} /> },
     { id: 3, name: "Fashion", icon: <FaTshirt size={24} /> },
-    { id: 4, name: "Appliances", icon: <FaHome size={24} /> },
-    { id: 5, name: "Audio", icon: <FaHeadphones size={24} /> },
+    { id: 4, name: "Appliances", icon: <FaMainpage size={24} /> },
+    { id: 5, name: "Audio", icon: <Famobiles size={24} /> },
   ];
 
   // Flash deals data
